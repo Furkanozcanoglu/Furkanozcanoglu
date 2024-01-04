@@ -1,4 +1,8 @@
- [![MasterHead](https://cdn.discordapp.com/attachments/840203140800053258/1188183750790610954/WhatsApp_Gorsel_2023-12-23_saat_21.13.12_524f60c8.jpg?ex=65999959&is=65872459&hm=40802b584f34a0db1efedc59416ddc2c59326358ee3dcd4096649b34d9c81bf0&)
+
+ <img width="300" height="300" src="https://cdn.discordapp.com/attachments/840203140800053258/1188183750790610954/WhatsApp_Gorsel_2023-12-23_saat_21.13.12_524f60c8.jpg?ex=65999959&is=65872459&hm=40802b584f34a0db1efedc59416ddc2c59326358ee3dcd4096649b34d9c81bf0&">
+
+
+ 
 <h1 align="center">Hi 👋, I'm Furkan Özcanoğlu</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
